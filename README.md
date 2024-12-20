@@ -60,18 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+## 🔥 GitHub Stats
 
-<h3 align="left">🔥   My Stats :</h3>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rithikKsingh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rithikKsingh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/rithikKsingh/rithikKsingh/output/snake.svg" alt="Snake animation" />
-
-###
+Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or suggestions.
