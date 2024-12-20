@@ -25,4 +25,10 @@ Welcome to my GitHub profile! Here's a little about me and my stats:
 
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/rithikKsingh/rithikKsingh/output/snake.svg" alt="Snake animation" />
+
+###
+
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or suggestions.
