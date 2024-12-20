@@ -5,16 +5,10 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/rithik-kumar-singh-9a3233222/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rithikKsingh.rithikKsingh&"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
@@ -67,4 +61,6 @@
 
 ###
 
-Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or suggestions.
+<img src="https://raw.githubusercontent.com/rithikKsingh/rithikKsingh/output/snake.svg" alt="Snake animation" />
+
+###
